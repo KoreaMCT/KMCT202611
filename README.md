@@ -39,8 +39,6 @@ MCT가 알아두면 좋을 소식을 정리해 주셨습니다.
 ## 📎 발표자료
 
 - [Korea MCT 온라인 수다 202611 발표.pdf](./Korea%20MCT%20온라인%20수다%20202611%20발표.pdf)
-- [Microsoft Ignite 2026 Copilot Recap](https://canrobot.co.kr/ms-ignite-2026)
-- [MCT Portal](https://aka.ms/mctportal)
 
 세부 내용은 행사 발표자료를, 최신 정책과 일정은 공식 안내를 참고해 주세요.
 
@@ -50,6 +48,7 @@ MCT가 알아두면 좋을 소식을 정리해 주셨습니다.
 
 - **Korea MCT 단톡방**: <https://open.kakao.com/o/gkXDlLqh>
 - **연락처 등록**: <https://forms.office.com/r/TMb82tTDCN>
+- **MCT Hub**: <https://mcthub.z12.web.core.windows.net/>
 
 ---
 
