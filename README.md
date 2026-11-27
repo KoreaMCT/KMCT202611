@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="2026년 11월 Korea MCT 온라인 수다" src="https://github.com/user-attachments/assets/c23d64b8-54e0-40ad-abf8-831d6a9ff0e6" />
+
 # 📘 Korea MCT 온라인 수다 – 2026년 11월 모임
 
 **2026년 11월 27일(금) 오후 9시**, Korea MCT 온라인 벙개로 함께했습니다.
@@ -53,7 +55,12 @@ MCT가 알아두면 좋을 소식을 정리해 주셨습니다.
 
 ## 📸 행사 사진
 
-추후 업데이트 예정입니다.
+<img width="1443" height="908" alt="image" src="https://github.com/user-attachments/assets/9efcdb1b-cee5-4e3d-b82b-9dee86a5de16" />
+<img width="1440" height="858" alt="image" src="https://github.com/user-attachments/assets/63105ee0-5a83-4430-a940-d79f357964c1" />
+<img width="1378" height="946" alt="image" src="https://github.com/user-attachments/assets/30de0e14-b783-43ec-8ccf-54df1c10cebf" />
+
+## 📸 What's on My Desk? 1등사진
+<img width="430" height="307" alt="image" src="https://github.com/user-attachments/assets/a983f86d-75a0-4b81-94c2-b2f7b8b6924e" />
 
 ---
 
